@@ -84,31 +84,31 @@ A **full-stack ecommerce application** built with modern web technologies. This 
 This walkthrough illustrates how a typical user interacts with the Shopping Web App:
 
 1. **Start at the Home Page**  
-   `[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`  
-   *Discover featured products and navigate to categories.*
+![Home](src/assets/home.PNG)  
+*Discover featured products and navigate to categories.*
 
 2. **Browse Products**  
-   `[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`  
+   ![Home](src/assets/products.PNG)    
    *Explore the full catalog of items.*
 
 3. **View Featured Items**  
-   `[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`  
+   ![Home](src/assets/featured.PNG)  
    *Quickly access highlighted products.*
 
 4. **Check Product Details**  
-   `[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`  
+   ![Home](src/assets/prod.PNG)  
    *See detailed information before adding to cart.*
 
 5. **Add to Cart**  
-   `[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`  
+   ![Home](src/assets/cart.PNG)  
    *Manage selected items, update quantities, or remove products.*
 
 6. **Proceed to Checkout**  
-   `[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`  
+   ![Home](src/assets/cart.PNG)  
    *Review your order and confirm purchase.*
 
 7. **Track Orders**  
-   `[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`  
+ ![Home](src/assets/orders.PNG)  
    *View your order history and track delivery status.*
 
 ---
@@ -124,9 +124,3 @@ Contributions are welcome!
 
 ## 📜 License
 This project is licensed under the MIT License.
-
----
-
-✅ With these image paths and workflow demo, your README now provides a **guided tour** of the app, making it much more engaging for recruiters and collaborators.  
-
-Would you like me to also add **badges** (React version, Netlify deploy status, license) at the top of the README for extra polish?
